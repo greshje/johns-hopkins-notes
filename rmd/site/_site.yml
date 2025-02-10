@@ -1,0 +1,20 @@
+name: "Resources and Notes for Johns Hopkins Masters in Analytics and Policy"
+output_dir: "../../docs"
+output:
+  html_document:
+    theme: cosmo
+    css: style.css
+    includes:
+      in_header: "favicon.html"
+exclude: ["extras"]
+navbar:
+  title: '<div><img src="ohdsi16x16.png"></img>Johns Hopkins Resources and Notes</div>'
+  right:
+    - icon: fa-github
+      href: https://github.com/greshje/johns-hopkins-notes
+  left:
+    - text: "Getting Started"
+      icon: fa-list
+      menu:
+        - text: "Research Tools"
+          href: research-tools.html

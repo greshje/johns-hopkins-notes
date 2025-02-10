@@ -1,0 +1,27 @@
+---
+title: '<div><b>Resources and Notes for Johns Hopkins Masters in Analytics and Policy</b> </div>'
+output:
+   html_document:
+        toc: TRUE
+        toc_depth: 3
+        toc_float:
+          collapsed: false
+---
+
+<!--
+*
+* resources
+*
+-->
+
+<h1>Introduction</h1>
+This site provides links to the resources I commonly used during my Masters of Analytics and Policy at Johns Hopkins.
+<h1>Quick Links</h1>
+<table>
+  <tr>
+    <td>
+      foo
+    </td>
+  </tr>
+</table>
+
