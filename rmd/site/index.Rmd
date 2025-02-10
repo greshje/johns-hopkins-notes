@@ -10,18 +10,25 @@ output:
 
 <!--
 *
-* resources
+* introduction
 *
 -->
 
 <h1>Introduction</h1>
 This site provides links to the resources I commonly used during my Masters of Analytics and Policy at Johns Hopkins.
 <h1>Quick Links</h1>
+
 <table>
   <tr>
     <td>
-      foo
+      <a href="./research-tools.html">Research Tools</a>&nbsp;&nbsp;
+    </td>
+    <td>
+      A list of links for tools to do searches of the scietific literature, Johns Hopkins library, and other types of resources.  
+    </td>
+    <td>
     </td>
   </tr>
 </table>
+
 
