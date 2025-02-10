@@ -19,6 +19,18 @@ This site provides links to the resources I commonly used during my Masters of A
 <h1>Quick Links</h1>
 
 <table>
+  <!-- canvas -->
+  <tr>
+    <td valign="top">
+      <a href="http://canvas.jhu.edu">Canvas</a>
+    </td>
+    <td valign="top">
+      Canvas: site used to manage your course work. 
+    </td>
+    <td valign="top">
+    </td>
+  </tr>
+  <!-- research tools -->
   <tr>
     <td>
       <a href="./research-tools.html">Research Tools</a>&nbsp;&nbsp;
