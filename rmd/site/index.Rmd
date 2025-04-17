@@ -157,6 +157,73 @@ This section has links to pages with multiple resources.
     <td valign="top">
     </td>
   </tr>
+  <!-- interesting links -->
+  <tr>
+    <td valign="top">
+      <a href="https://imagine.jhu.edu/search/?type=&s=https%3A%2F%2Fzoom.us%2Fj%2F3082142418">Interesting Links</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Here's some interesting links that came up when I searched for the zoom meeting for the Life Design Lab zoom meeting. I don't know how fresh this page will be. 
+      Most of these links are listed below.
+    </td>
+    <td valign="top">
+    </td>
+  </tr>
+  <!-- job boards for public health professionals -->
+  <tr>
+    <td valign="top">
+      <a href="https://imagine.jhu.edu/resources/comprehensive-job-boards-and-resources-for-public-health-professionals/">Job Board for Public Health Officials</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Comprehensive Job Boards and Resources for Public Health Professionals
+    </td>
+    <td valign="top">
+    </td>
+  </tr>
+  <!-- breaking into global public health -->
+  <tr>
+    <td valign="top">
+      <a href="https://imagine.jhu.edu/resources/189585/">Job Board for Public Health Officials</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Breaking into Global Public Health: Key Takeaways from Careers at WHO & Gates Foundation
+    </td>
+    <td valign="top">
+    </td>
+  </tr>
+  <!-- resume writing -->
+  <tr>
+    <td valign="top">
+      <a href="https://imagine.jhu.edu/resources/how-to-write-effective-resumes-and-cvs-for-doctoral-students-and-postdocs/">Job Board for Public Health Officials</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      How to Write Effective Resumes and CVs for Doctoral Students and Postdocs
+    </td>
+    <td valign="top">
+    </td>
+  </tr>
+  <!-- interview tips -->
+  <tr>
+    <td valign="top">
+      <a href="https://imagine.jhu.edu/resources/interviewing-strategies-for-phds/">Job Board for Public Health Officials</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Interviewing Strategies for PhDs
+    </td>
+    <td valign="top">
+    </td>
+  </tr>
+  <!-- museums and cultural institutions -->
+  <tr>
+    <td valign="top">
+      <a href="https://imagine.jhu.edu/resources/museums-cultural-institutions-a-career-guide/">Job Board for Public Health Officials</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Museums & Cultural Institutions: A Career Guide 
+    </td>
+    <td valign="top">
+    </td>
+  </tr>
 </table>
 
 
