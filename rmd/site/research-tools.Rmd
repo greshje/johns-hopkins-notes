@@ -8,6 +8,16 @@ output:
           collapsed: false
 ---
 
+<style>
+  table {
+    border-collapse: collapse;
+  }
+
+  th, td {
+    padding: 5px;
+  }
+</style>
+
 <!--
 *
 * introduction
@@ -18,10 +28,10 @@ output:
 Below are links for research tools.
 <h1>Quick Links</h1>
 
-<table>
+<table border="1" width="100%">
   <!-- google scholar -->
   <tr>
-    <td valign="top">
+    <td valign="top" width="20%">
       <a href="https://scholar.google.com/">Google Scholar</a>
     </td>
     <td valign="top">
@@ -46,7 +56,7 @@ Below are links for research tools.
   </tr>
   <!-- citation search -->
   <tr>
-    <td valign="top">
+    <td valign="top" width="20%">
       <a href="https://catalyst.library.jhu.edu/discovery/citationlinker?vid=01JHU_INST:JHU">Citation Search</a>
       <br/><br/>
     </td>
