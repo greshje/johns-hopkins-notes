@@ -1,0 +1,156 @@
+---
+title: '<div><b>Physical Fitness</b> </div>'
+output:
+   html_document:
+        toc: TRUE
+        toc_depth: 3
+        toc_float:
+          collapsed: false
+---
+
+<style>
+  table {
+    border-collapse: collapse;
+  }
+
+  th, td {
+    padding: 5px;
+  }
+</style>
+
+
+<!--
+*
+* introduction
+*
+-->
+
+<h1>Introduction</h1>
+We spend far too much time immobile, but such is the life of a scholar.
+This page has mobility, flexibility, and cardiovascular exercises that will help to keep your body happy while you are growing your mind.
+
+<!--
+*
+* Physical Fitness Links
+*
+-->
+
+<h1>Physical Fitness</h1>
+
+<!--
+*
+* Yoga
+*
+-->
+
+<h2>Yoga</h2>
+Low impact stretching exercises.
+I started doing yoga about a two years ago.
+I'm on the overweight side and have had lower back issues for most of my adult life.
+Yoga has been the best thing to happen to my lower back by far.
+100/10, would highly recommend.
+
+<table border="1" width="100%">
+  <!-- Cassandra's 20 Min Morning -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://www.youtube.com/watch?v=EuAwhogdukQ&t=4s">Cassandra's 20 Min Morning</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      A great 20 minute morning yoga routine.
+      Excellent for beginners and can be modified as your abilities grow.
+      This is where I started my yoga journey and I haven't looked back.
+      Best thing to happen to me physical fitness wise since high school sports.
+    </td>
+  </tr>
+</table>
+
+
+<!--
+*
+* Cardio-Mobility
+*
+-->
+
+<h2>Cardio-Mobility</h2>
+Exercises that improve your mobility and also get your heart going.
+<table border="1" width="100%">
+  <!-- twist squats -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://www.facebook.com/reel/1629284027719823">Twist Squats</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      <ul>
+        <li>Straight Leg Kicks</li>
+        <li>Twist Jump Squats</li>
+        <li>Running in Place</li>
+        <li>Jump Squats</li>
+        <li>Kicks With Arm Twists</li>
+      </ul>
+    </td>
+  </tr>
+  <!-- lunges with arms -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://www.facebook.com/reel/948374670494802">Lunges with Arms</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      <ul>
+        <li>Knee Taps</li>
+        <li>Jump Squats</li>
+        <li>Running in Place</li>
+        <li>Lunges with Arms</li>
+        <li></li>
+      </ul>
+    </td>
+  </tr>
+  <!-- kneeling -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://www.facebook.com/reel/652373577579755">Kneeling</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      <ul>
+        <li>Kneeling Pelvis Thrusts</li>
+        <li>Kneeling Side Leans</li>
+        <li>Kneeling Arm Raises</li>
+        <li>Kneeling Head Hold Side Leans</li>
+        <li></li>
+      </ul>
+    </td>
+  </tr>
+  <!-- -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://www.facebook.com/reel/1261959532161211">Bench</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      <ul>
+        <li>Bench Double Side Taps</li>
+        <li>Bench Two Foot Kicks</li>
+        <li>Bench One Foot Kicks</li>
+        <li>Bench Two Foot Kick Outs</li>
+      </ul>
+    </td>
+  </tr>
+
+  <!-- -->
+  <!--
+  <tr>
+    <td valign="top" width="20%">
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+      </ul>
+    </td>
+  </tr>
+  -->
+
+</table>
