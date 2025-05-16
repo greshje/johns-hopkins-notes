@@ -97,6 +97,8 @@ This course is approximately 16 weeks long and covers the following:
     <td valign="top">
       <b>Syllabus</b>
       This is basically the syllabus for the course.
+      The schedule document can be downloaded
+      <a href="./img/Program Learning Schedule - 2025-05.pdf">here</a>.
     </td>
   </tr>
 
