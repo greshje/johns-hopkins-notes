@@ -1,0 +1,159 @@
+---
+title: '<div><b>Certificate Program in Applied Generative AI</b> </div>'
+output:
+   html_document:
+        toc: TRUE
+        toc_depth: 3
+        toc_float:
+          collapsed: false
+---
+
+<style>
+  table {
+    border-collapse: collapse;
+  }
+
+  th, td {
+    padding: 5px;
+  }
+</style>
+
+
+<!--
+*
+* introduction
+*
+-->
+
+<h1>Introduction</h1>
+This page has links for the Certificate Program in Applied Generative AI program offered by Johns Hopkins.
+This course is offered through Great Learning.
+This course was $2,950 at the time of this writing.
+This course is approximately 16 weeks long and covers the following:
+<ul>
+  <li>
+    Learning Python with Generative AI
+  </li>
+  <li>
+    Generative AI for Office Productivity
+  </li>
+  <li>
+    Designing Advanced Generative AI Workflows
+  </li>
+</ul>
+
+<!--
+*
+* Links for Certificate Program in Applied Generative AI
+*
+-->
+
+<h1>Applied Generative AI Links</h1>
+<table border="1" width="100%">
+
+  <!-- Application Page -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://online.lifelonglearning.jhu.edu/jhu-certificate-program-applied-generative-ai?utm_source=eportfolio&gl_source=Linkedin&gl_campaign=Eportfolio">Application Page</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      <b>Application:</b>
+      This page has an overview of the program and links to submit an application.
+    </td>
+  </tr>
+
+  <!-- Home -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://olympus.mygreatlearning.com/dashboard">Home</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      <b>Dashboard:</b>
+      This is the home page (dashboard) for the course.
+      Most of the following links can be reached through this page.
+      This page displays
+    </td>
+  </tr>
+
+  <!-- support -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://olympus.mygreatlearning.com/courses/130087/modules/items/6842771?pb_id=18965">Support</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      <b>Support:</b>
+      This page contains information on how to get support.
+      This includes links to the online support,
+      contact information (email, WhatsApp, calendar, etc.) for the program manager,
+      etc.
+    </td>
+  </tr>
+
+  <!-- program structure -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://olympus.mygreatlearning.com/courses/130087/modules/items/6842755?pb_id=18965">Program Structure</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      <b>Syllabus</b>
+      This is basically the syllabus for the course.
+    </td>
+  </tr>
+
+  <!-- activities -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://olympus.mygreatlearning.com/activities?pb_id=18965">Activities</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      <b>Upcoming and Past Classes and Lectures:</b>
+      This page seems to be a list of classes/meetings.
+      Go here to see what sessions are coming up.
+    </td>
+  </tr>
+
+  <!-- courses/assignments -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://olympus.mygreatlearning.com/courses?pb_id=18965">Courses</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      <b>Assignments:</b>
+      This page has a list of all of the things you need to do.
+      Go to this page to see what needs to be done.
+      This page however, does not have due dates for the activities,
+      but it is broken into "Active", "Self-Paced", and "Upcomming".
+      
+    </td>
+  </tr>
+
+  <!-- grades -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://olympus.mygreatlearning.com/gradebook?pb_id=18965">Grades</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      <b>Grades:</b>
+      Grades are posted here.
+      This seems to be only grades for formal assessments
+      and does not seem to include things like attendance.
+      Attendance is on the
+      <a href="https://olympus.mygreatlearning.com/dashboard">dashboard</a>.
+    </td>
+  </tr>
+
+  <!-- -->
+  <!--
+  <tr>
+    <td valign="top" width="20%">
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      
+    </td>
+  </tr>
+
+  -->
+
+</table>
+
