@@ -39,177 +39,34 @@ This site provides links to the resources I commonly used during my Masters of A
 This section has links to pages with multiple resources.
 <br/><br/>
 <table border="1" width="100%">
+  <!-- general links -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="./general-links.html"><nobr>General Links&nbsp;</nobr></a>&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Links to the most common sites you need. This includes links to the degree details for the Data Analytics and Policy Masters of Science, the academic calendars, class schedules, canvas, student information systems (SIS), grades, transcripts, registration and add drop, billing, etc.
+    </td>
+  </tr>
   <!-- research tools -->
   <tr>
     <td valign="top" width="20%">
       <a href="./research-tools.html"><nobr>Research&nbsp;Tools</nobr></a>&nbsp;&nbsp;
     </td>
     <td valign="top">
-      A list of links for tools to do searches of the scietific literature, Johns Hopkins library, and other types of resources.  
+      A list of links for tools to do searches of the scietific literature, Johns Hopkins library, and other types of resources. This includes both interal and exteral links such as Johns Hopkins literature search tool (Catalyst), citation search tools, Google scholar, etc.
     </td>
   </tr>
-</table>
-
-<!--
-*
-* General Links
-*
--->
-
-<h2>General Links</h2>
-<table border="1" width="100%">
-
-  <!-- data analytics and policy, master of science -->
+  <!--
   <tr>
     <td valign="top" width="20%">
-      <a href="https://e-catalogue.jhu.edu/arts-sciences/advanced-academic-programs/programs/center-advanced-governmental-studies/data-analytics-policy-master-science/#requirementstext">Data Analytics and Policy MS</a>&nbsp;&nbsp;&nbsp;
+      <a href="./.html"><nobr>&nbsp;</nobr></a>&nbsp;&nbsp;
     </td>
     <td valign="top">
-      Data Analytics and Policy, Master of Science
+
     </td>
   </tr>
-
-  <!-- academic calendar -->
-  <tr>
-    <td valign="top" width="20%">
-      <a href="https://advanced.jhu.edu/student-resources/academic-calendar/">Academic Calendar</a>&nbsp;&nbsp;&nbsp;
-    </td>
-    <td valign="top">
-      Academic Calendar: Registration start and end dates, semester start and end dates, etc.
-    </td>
-  </tr>
-
-  <!-- class schedule -->
-  <tr>
-    <td valign="top" width="20%">
-      <a href="https://sis.jhu.edu/sswf/SSS/EntityClassSchedule/SSS_StudentClassScheduleOverView.aspx?CalledFrom=FromWeekCal">Class Schedule</a>&nbsp;&nbsp;&nbsp;
-    </td>
-    <td valign="top">
-      Schedule of classes. If you are only taking asyncronous classes this will be blank.  
-    </td>
-  </tr>
-
-  <!-- canvas -->
-  <tr>
-    <td valign="top" width="20%">
-      <a href="http://canvas.jhu.edu">Canvas</a>&nbsp;&nbsp;&nbsp;
-    </td>
-    <td valign="top">
-      Canvas: site used to manage your course work. 
-    </td>
-  </tr>
-
-  <!-- sis log on -->
-  <tr>
-    <td valign="top" width="20%">
-      <a href="https://sis.jhu.edu/">SIS Log On</a>&nbsp;&nbsp;&nbsp;
-    </td>
-    <td valign="top">
-      Student Information Systems (SIS) Logon
-    </td>
-  </tr>
-
-  <!-- grades -->
-  <tr>
-    <td valign="top" width="20%">
-      <a href="https://sis.jhu.edu/sswf/SSS/ViewGradesByAP/SSS_ViewGradesByAP.aspx?MyIndex=88311">Grades</a>&nbsp;&nbsp;&nbsp;
-    </td>
-    <td valign="top">
-      Grades (note, there is also a link to download unofficial transcript towards the top of this page)
-    </td>
-  </tr>
-
-  <!-- unofficial transcript -->
-  <tr>
-    <td valign="top" width="20%">
-      <a href="https://sis.jhu.edu/sswf/SSS/ViewGradesByAP/SSS_ViewGradesByAP.aspx?MyIndex=88311">Unofficial Transcript</a>&nbsp;&nbsp;&nbsp;
-    </td>
-    <td valign="top">
-      Note, this is the link for grades. There is a link to download your unofficial transcript towards the top of this page. 
-    </td>
-  </tr>
-
-  <!-- class search -->
-  <tr>
-    <td valign="top" width="20%">
-      <a href="https://sis.jhu.edu/sswf/SSS/SearchForClasses/SSS_SearchForClasses.aspx?MyIndex=125106">Class Search</a>&nbsp;&nbsp;&nbsp;
-    </td>
-    <td valign="top">
-      Class Search: Search for classes by name and semester
-    </td>
-  </tr>
-
-  <!-- registration  -->
-  <tr>
-    <td valign="top" width="20%">
-      <a href="https://sis.jhu.edu/sswf/SSS/SSS_AddDropClasses/SSS_AddDropClasses.aspx?MyIndex=125108">Registration</a>&nbsp;&nbsp;&nbsp;
-    </td>
-    <td valign="top">
-      Registration: Register for classes
-    </td>
-  </tr>
-
-  <!-- add drop -->
-  <tr>
-    <td valign="top" width="20%">
-      <a href="https://sis.jhu.edu/sswf/SSS/SSS_AddDropClasses/SSS_AddDropClasses.aspx?MyIndex=125108">Add/Drop</a>&nbsp;&nbsp;&nbsp;
-    </td>
-    <td valign="top">
-      Add/Drop: Add or Drop classes
-    </td>
-  </tr>
-
-  <!-- billing -->
-  <tr>
-    <td valign="top" width="20%">
-      <a href="https://sis.jhu.edu/sswf/v/billing-summary/?MyIndex=88323">Billing</a>&nbsp;&nbsp;&nbsp;
-    </td>
-    <td valign="top">
-      Billing summary. Links to make payments, etc.
-    </td>
-  </tr>
-
-  <!-- -->
-  <tr>
-    <td valign="top" width="20%">
-      <a href=""></a>&nbsp;&nbsp;&nbsp;
-    </td>
-    <td valign="top">
-      
-    </td>
-  </tr>
-
-  <!-- -->
-  <tr>
-    <td valign="top" width="20%">
-      <a href=""></a>&nbsp;&nbsp;&nbsp;
-    </td>
-    <td valign="top">
-      
-    </td>
-  </tr>
-
-  <!-- -->
-  <tr>
-    <td valign="top" width="20%">
-      <a href=""></a>&nbsp;&nbsp;&nbsp;
-    </td>
-    <td valign="top">
-      
-    </td>
-  </tr>
-
-  <!-- -->
-  <tr>
-    <td valign="top" width="20%">
-      <a href=""></a>&nbsp;&nbsp;&nbsp;
-    </td>
-    <td valign="top">
-      
-    </td>
-  </tr>
-
-
+  -->
 </table>
 
 <!--

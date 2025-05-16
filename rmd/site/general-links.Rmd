@@ -1,0 +1,162 @@
+---
+title: '<div><b>General Links</b> </div>'
+output:
+   html_document:
+        toc: TRUE
+        toc_depth: 3
+        toc_float:
+          collapsed: false
+---
+
+<style>
+  table {
+    border-collapse: collapse;
+  }
+
+  th, td {
+    padding: 5px;
+  }
+</style>
+
+
+<!--
+*
+* introduction
+*
+-->
+
+<h1>Introduction</h1>
+This page provides the core links you will need.
+
+<!--
+*
+* General Links
+*
+-->
+
+<h1>General Links</h1>
+<table border="1" width="100%">
+
+  <!-- data analytics and policy, master of science -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://e-catalogue.jhu.edu/arts-sciences/advanced-academic-programs/programs/center-advanced-governmental-studies/data-analytics-policy-master-science/#requirementstext">Data Analytics and Policy MS</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Data Analytics and Policy, Master of Science: This page has the details for this degree including required classes and electives.
+    </td>
+  </tr>
+
+  <!-- academic calendar -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://advanced.jhu.edu/student-resources/academic-calendar/">Academic Calendar</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Academic Calendar: Registration start and end dates, semester start and end dates, etc.
+    </td>
+  </tr>
+
+  <!-- class schedule -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://sis.jhu.edu/sswf/SSS/EntityClassSchedule/SSS_StudentClassScheduleOverView.aspx?CalledFrom=FromWeekCal">Class Schedule</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Schedule of classes. If you are only taking asyncronous classes this will be blank.  
+    </td>
+  </tr>
+
+  <!-- canvas -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="http://canvas.jhu.edu">Canvas</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Canvas: site used to manage your course work. 
+    </td>
+  </tr>
+
+  <!-- sis log on -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://sis.jhu.edu/">SIS Log On</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Student Information Systems (SIS) Logon
+    </td>
+  </tr>
+
+  <!-- grades -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://sis.jhu.edu/sswf/SSS/ViewGradesByAP/SSS_ViewGradesByAP.aspx?MyIndex=88311">Grades</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Grades (note, there is also a link to download unofficial transcript towards the top of this page)
+    </td>
+  </tr>
+
+  <!-- unofficial transcript -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://sis.jhu.edu/sswf/SSS/ViewGradesByAP/SSS_ViewGradesByAP.aspx?MyIndex=88311">Unofficial Transcript</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Note, this is the link for grades. There is a link to download your unofficial transcript towards the top of this page. 
+    </td>
+  </tr>
+
+  <!-- class search -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://sis.jhu.edu/sswf/SSS/SearchForClasses/SSS_SearchForClasses.aspx?MyIndex=125106">Class Search</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Class Search: Search for classes by name and semester
+    </td>
+  </tr>
+
+  <!-- registration  -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://sis.jhu.edu/sswf/SSS/SSS_AddDropClasses/SSS_AddDropClasses.aspx?MyIndex=125108">Registration</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Registration: Register for classes
+    </td>
+  </tr>
+
+  <!-- add drop -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://sis.jhu.edu/sswf/SSS/SSS_AddDropClasses/SSS_AddDropClasses.aspx?MyIndex=125108">Add/Drop</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Add/Drop: Add or Drop classes
+    </td>
+  </tr>
+
+  <!-- billing -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://sis.jhu.edu/sswf/v/billing-summary/?MyIndex=88323">Billing</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Billing summary. Links to make payments, etc.
+    </td>
+  </tr>
+
+  <!--
+  <tr>
+    <td valign="top" width="20%">
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      
+    </td>
+  </tr>
+  -->
+
+</table>
+

@@ -16,5 +16,5 @@ navbar:
     - text: "Getting Started"
       icon: fa-list
       menu:
-        - text: "Research Tools"
-          href: research-tools.html
+        - text: "Home"
+          href: index.html
