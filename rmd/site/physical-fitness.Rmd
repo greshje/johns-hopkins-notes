@@ -87,6 +87,245 @@ Exercises that improve your mobility.
       </ul>
     </td>
   </tr>
+  <!-- Floor Exercise for Core -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://www.facebook.com/reel/1181237606255287"></a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Floor Exercise for Core
+    </td>
+  </tr>
+  <!-- Body Weight Workout -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://www.facebook.com/reel/1671255856992626">Body Weight Workout</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Body Weigh Workout
+      <ul>
+        <li>Side Jump to Front Kick</li>
+        <li>One Hand Knee to Floor Dragon Squat</li>
+        <li>Step Under to Low Squat</li>
+        <li>Table Touch to Hollow Hold</li>
+        <li>Side Kick to Back Lunge</li>
+      </ul>
+    </td>
+  </tr>
+  <!-- Exercises for Explosive Legs -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://www.facebook.com/reel/917333280434765">Exercises for Explosive Legs</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Exercises for Explosive Legs
+      <ul>
+        <li>Sprawl to High Kick</li>
+        <li>Side Kick Squat Jump</li>
+        <li>Jump Over Mountain Climbers</li>
+        <li>Skater to Front Kick</li>
+      </ul>
+    </td>
+  </tr>
+  <!-- Do this Instead of Cardio -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://www.facebook.com/reel/1481557962467872">Do this Instead of Cardio</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Do this Instead of Cardio
+      <ul>
+        <li>Table Switches Knee In</li>
+        <li>Front Jump Crawl Variation Back</li>
+        <li>Step Monkey Turn to Lunges Back</li>
+        <li>M. Climbers/stair Pushups</li>
+      </ul>
+    </td>
+  </tr>
+  <!-- Beginner Mobility Moves -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://www.facebook.com/reel/2238386619871119">Beginner Mobility Moves</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Beginner Mobility Moves, Try these after long periods of sitting down.
+      <ul>
+        <li>Foot Around Arm to Cross Downward Facing Dog</li>
+        <li>Reach Backs to Table</li>
+        <li>Kick Out Hamstring Flow</li>
+        <li>Kneeling Spine Twist to Cobra Pushup</li>
+      </ul>
+    </td>
+  </tr>
+  <!-- Advanced Abs -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://www.facebook.com/reel/1019778429374745">Advanced Abs</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Advanced Abs Workout
+    </td>
+  </tr>
+  <!-- Quick Movement Workout -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://www.facebook.com/reel/371812975311719">Quick Movement Workout</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Quick Movement Workout (advanced yoga flow and cardio)
+      <ul>
+        <li>Hip Switch</li>
+        <li>Kick Through</li>
+        <li>Reverse Burpee (sprawl)</li>
+      </ul>
+    </td>
+  </tr>
+  <!-- Core, Knees, and Ankles -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://www.facebook.com/reel/991483209442677">Core, Knees, and Ankles</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Simple and Short Flow for Core, Knees, and Ankles
+    </td>
+  </tr>
+  <!-- Intermediate Core Flow -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://www.facebook.com/reel/1200688447748103">Intermediate Core Flow</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Intermediate Core Flow
+      <ul>
+        <li>Hook PUshups</li>
+        <li>Compression Slides</li>
+        <li>Row Reach to Plank</li>
+        <li>Kick Out Lunges</li>
+      </ul>
+    </td>
+  </tr>
+  <!-- Work Your Way Up To Handstands -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://www.facebook.com/reel/468654559090750">Work Your Way Up To Handstands</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Work Your Way Up To Handstands
+    </td>
+  </tr>
+  <!-- Three Simple Beginner Mobility Moves -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://www.facebook.com/reel/465079929661573">Three Simple Beginner Mobility Moves</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Three Simple Beginner Mobility Moves
+      <ul>
+        <li>Sit Throughs</li>
+        <li>Plank Jacks</li>
+        <li>Box Cross Reach</li>
+      </ul>
+    </td>
+  </tr>
+  <!-- -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+
+    </td>
+  </tr>
+  <!-- -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+
+    </td>
+  </tr>
+  <!-- -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+
+    </td>
+  </tr>
+  <!-- -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+
+    </td>
+  </tr>
+  <!-- -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+
+    </td>
+  </tr>
+  <!-- -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+
+    </td>
+  </tr>
+  <!-- -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+
+    </td>
+  </tr>
+  <!-- -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+
+    </td>
+  </tr>
+  <!-- -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+
+    </td>
+  </tr>
+  <!-- -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+
+    </td>
+  </tr>
+  <!-- -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+
+    </td>
+  </tr>
 
   <!-- -->
   <!--
@@ -202,6 +441,52 @@ Exercises that improve your mobility and also get your heart going.
 Links to Dancing Tutorials
 
 <table border="1" width="100%">
+
+  <!-- Beginner Shuffle Dancing -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://www.youtube.com/watch?v=Kt-Tb9gaOB8">Beginner Shuffle Dancing</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Beginner Shuffle Dancing: All you really need to know (except for moon walking).
+      Everything else is just variations ;)
+    </td>
+  </tr>
+
+  <!-- Moon Walk Variations -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://www.facebook.com/reel/1417431365879933">Moon Walk Variations</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Moon Walk Variations
+    </td>
+  </tr>
+
+  <!-- How to Learn Break Dancing Swipes -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://www.facebook.com/reel/1078471720304481">How to Learn Break Dancing Swipes</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      How to Learn Break Dancing Swipes
+      <ul>
+        <li>Learn the Circle Motion</li>
+        <li>Circle Motion with a Jumping Switch</li>
+        <li>Circle Motion with Jumping Hands and Legs</li>
+        <li>Explode into One Leg</li>
+        <li>One Leg Half Turn on Knees</li>
+        <li>One Leg Half Turn on Feet</li>
+        <li>Full Turn on Feet</li>
+        <li>Full Turn with Hand Switch</li>
+        <li>Full Turn with Hand Switch One Leg</li>
+        <li>Two Consecutive Turns</li>
+        <li>Start from Standing and Add Turns</li>
+        <li>Keep Practicing!!!</li>
+      </ul>
+    </td>
+  </tr>
+
   <!-- -->
   <!--
   <tr>
@@ -246,16 +531,5 @@ Links to Skiing Conditioning and Tutorials.
     </td>
   </tr>
 
-  <!-- -->
-  <!--
-  <tr>
-    <td valign="top" width="20%">
-      <a href=""></a>&nbsp;&nbsp;&nbsp;
-    </td>
-    <td valign="top">
-
-    </td>
-  </tr>
-  -->
 </table>  
 
