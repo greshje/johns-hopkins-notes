@@ -226,40 +226,69 @@ Exercises that improve your mobility.
       </ul>
     </td>
   </tr>
-  <!-- -->
+  <!-- Step Out Variations -->
   <tr>
     <td valign="top" width="20%">
-      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://www.facebook.com/reel/461676406844608">Step Out Variations</a>&nbsp;&nbsp;&nbsp;
     </td>
     <td valign="top">
-
+      Step Out Variations
+      <ul>
+        <li>Step out</li>
+        <li>Touch Hand to Foot</li>
+        <li>Step Knee In</li>
+        <li>Knee to Arm</li>
+        <li>Knee High to Low</li>
+        <li>Hips High Step Back</li>
+        <li>Foot Around Arm Touch</li>
+      </ul>
     </td>
   </tr>
-  <!-- -->
+  <!-- A Mobility Sampler -->
   <tr>
     <td valign="top" width="20%">
-      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://www.facebook.com/reel/1246810966284946">A Mobility Sampler</a>&nbsp;&nbsp;&nbsp;
     </td>
     <td valign="top">
-
+      A Mobility Sampler
+      <ul>
+        <li>Lunge Steps</li>
+        <li>Crawl Position Side Reach</li>
+        <li>Hip Up Crunches</li>
+        <li>Side Jumps to Low Squat</li>
+        <li>Gorilla Squats</li>
+        <li>Kick Out Touches</li>
+        <li>Belly Rows</li>
+        <li>Squat Jumps</li>
+      </ul>
     </td>
   </tr>
-  <!-- -->
+  <!-- Work Your Way Up To... -->
   <tr>
     <td valign="top" width="20%">
-      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://www.facebook.com/reel/1190506268612013">Work Your Way Up To...</a>&nbsp;&nbsp;&nbsp;
     </td>
     <td valign="top">
-
+      Work Your Way Up To:
+      <ul>
+        <li>Hanging Bar Toe-To-Bar</li>
+        <li>Handstand Push Up</li>
+      </ul>
     </td>
   </tr>
-  <!-- -->
+  <!-- Do This After Long Sitting Periods -->
   <tr>
     <td valign="top" width="20%">
-      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://www.facebook.com/reel/452528181003650">Do This After Long Sitting Periods</a>&nbsp;&nbsp;&nbsp;
     </td>
     <td valign="top">
-
+      Do This After Long Sitting Periods
+      <ul>
+        <li>Side Kick Downdog Twist</li>
+        <li>Knee Cross Kicks to One Arm Opener</li>
+        <li>Ninja Turn</li>
+        <li>Pike Touch to Seated Combo</li>
+      </ul>
     </td>
   </tr>
   <!-- -->
