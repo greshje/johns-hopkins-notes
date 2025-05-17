@@ -75,7 +75,6 @@ Yoga has been the best thing to happen to my lower back by far.
 Exercises that improve your mobility.
 
 <table border="1" width="100%">
-  
   <!-- build-up to kickout and reach up -->
   <tr>
     <td valign="top" width="20%">
@@ -339,6 +338,7 @@ Exercises that improve your mobility.
     </td>
   </tr>
   -->
+  
 </table>
 
 <!--
@@ -441,7 +441,6 @@ Exercises that improve your mobility and also get your heart going.
 Links to Dancing Tutorials
 
 <table border="1" width="100%">
-
   <!-- Beginner Shuffle Dancing -->
   <tr>
     <td valign="top" width="20%">
@@ -452,7 +451,15 @@ Links to Dancing Tutorials
       Everything else is just variations ;)
     </td>
   </tr>
-
+  <!-- Beginner Moonwalk -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://www.youtube.com/watch?v=eYT48mu-TIc&t=28s">Beginner Moonwalk</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Beginner Moonwalk
+    </td>
+  </tr>
   <!-- Moon Walk Variations -->
   <tr>
     <td valign="top" width="20%">
@@ -462,7 +469,6 @@ Links to Dancing Tutorials
       Moon Walk Variations
     </td>
   </tr>
-
   <!-- How to Learn Break Dancing Swipes -->
   <tr>
     <td valign="top" width="20%">
@@ -498,6 +504,7 @@ Links to Dancing Tutorials
     </td>
   </tr>
   -->
+
 </table>  
 
 <!--
@@ -520,7 +527,6 @@ Links to Skiing Conditioning and Tutorials.
       One foot side to side jump exercise for conditioning for skiing moguls.
     </td>
   </tr>
-
   <!-- hard core ski workout -->
   <tr>
     <td valign="top" width="20%">
@@ -530,6 +536,18 @@ Links to Skiing Conditioning and Tutorials.
       Lots of intense exercises to get you ready for skiing moguls etc.
     </td>
   </tr>
+  
+  <!-- -->
+  <!--
+  <tr>
+    <td valign="top" width="20%">
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
 
+    </td>
+  </tr>
+  -->
+  
 </table>  
 
