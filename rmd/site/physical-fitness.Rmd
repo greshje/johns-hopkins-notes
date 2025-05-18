@@ -89,7 +89,7 @@ Exercises that improve your mobility.
   <!-- Floor Exercise for Core -->
   <tr>
     <td valign="top" width="20%">
-      <a href="https://www.facebook.com/reel/1181237606255287"></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://www.facebook.com/reel/1181237606255287">Floor Exercise for Core</a>&nbsp;&nbsp;&nbsp;
     </td>
     <td valign="top">
       Floor Exercise for Core
