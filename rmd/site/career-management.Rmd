@@ -1,0 +1,178 @@
+---
+title: '<div><b>Career Management</b> </div>'
+output:
+   html_document:
+        toc: TRUE
+        toc_depth: 3
+        toc_float:
+          collapsed: false
+---
+
+<style>
+  table {
+    border-collapse: collapse;
+  }
+
+  th, td {
+    padding: 5px;
+  }
+</style>
+
+<!--
+*
+* Introduction
+*
+-->
+
+<h1>Introduction</h1>
+The links below are for resoures for career management.
+
+<!--
+*
+* Career Management
+*
+-->
+
+<h2>Career Management</h2>
+<table border="1" width="100%">
+  <!-- imagine homepage -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://imagine.jhu.edu/">Imagine Homepage</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      This page has a number of resources for career management including Hopkins Connect, Hopkins Office for Undergraduate Research (HOUR), Doctoral Life Design Studio (DLDS), and Hire Hopkins. The current zoom link is: <a href="https://zoom.us/j/3082142418">https://zoom.us/j/3082142418</a>
+    </td>
+  </tr>
+  <!-- handshake channels homepage -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://imagine.jhu.edu/channels/explore-opportunities-ldl/">Handshake Channels Homepage</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      This page has a number of resources for career management including Handshake, One Hop Mentoring. The current zoom link is: <a href="https://zoom.us/j/3082142418">https://zoom.us/j/3082142418</a>
+    </td>
+  </tr>
+  <!-- handshake homepage -->
+  <tr>
+    <td valign="top">
+      <a href="https://jhu.joinhandshake.com/explore">Handshake Homepage</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      This page has a number of resources for career management including jobs, people, and a link to the career center. 
+      <br/>
+      The current zoom link is: <a href="https://zoom.us/j/3082142418">https://zoom.us/j/3082142418</a>
+    </td>
+  </tr>
+  <!-- link to zoom meeting -->
+  <tr>
+    <td valign="top">
+      <a href="https://imagine.jhu.edu/channels/life-design-lab/">Life Design Lab Drop in Hours</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      This page has the link to the Zoom meeting for life design lab drop-in hours (Monday - Thursday 1-5 p.m.)
+      <br/>
+      The current zoom link is: <a href="https://zoom.us/j/3082142418">https://zoom.us/j/3082142418</a>
+    </td>
+  </tr>
+  <!-- job postings -->
+  <tr>
+    <td valign="top">
+      <a href="https://jhu.joinhandshake.com/stu/postings">Job Postings</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Johns Hopkins job postings for external jobs
+    </td>
+  </tr>
+  <!-- one hop -->
+  <tr>
+    <td valign="top">
+      <a href="https://onehop.jhu.edu/hub/main/home-v3">One Hop Mentoring</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      A Hopkins networking site. Select the "Find the best career path for me" tab and then "Opt In" to sign up for alum mentors. 
+    </td>
+  </tr>
+  <!-- sign up for mentor -->
+  <tr>
+    <td valign="top">
+      <a href="https://imagine.jhu.edu/channels/getting-curious-for-the-jhu-community/">Sign Up for a Mentor</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Site with links including sign up for mentor
+    </td>
+  </tr>
+  <!-- navigating transitions -->
+  <tr>
+    <td valign="top">
+      <a href="https://imagine.jhu.edu/navigating-transitions/">Navigating Transitions</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Navigating Transitions: Register for seminars on career development
+    </td>
+  </tr>
+  <!-- navigating transitions -->
+  <tr>
+    <td valign="top">
+      <a href="https://imagine.jhu.edu/events/navigating-transitions/">Navigating Transitions (all events)</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Navigating Transitions Events: Register for seminars on career development (all events)
+    </td>
+  </tr>
+  <!-- interesting links -->
+  <tr>
+    <td valign="top">
+      <a href="https://imagine.jhu.edu/search/?type=&s=https%3A%2F%2Fzoom.us%2Fj%2F3082142418">Interesting Links</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Here's some interesting links that came up when I searched for the zoom meeting for the Life Design Lab zoom meeting. I don't know how fresh this page will be. 
+      Most of these links are listed below.
+    </td>
+  </tr>
+  <!-- job boards for public health professionals -->
+  <tr>
+    <td valign="top">
+      <a href="https://imagine.jhu.edu/resources/comprehensive-job-boards-and-resources-for-public-health-professionals/">Job Board for Public Health Officials</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Comprehensive Job Boards and Resources for Public Health Professionals
+    </td>
+  </tr>
+  <!-- breaking into global public health -->
+  <tr>
+    <td valign="top">
+      <a href="https://imagine.jhu.edu/resources/189585/">Breaking into Public Health</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Breaking into Global Public Health: Key Takeaways from Careers at WHO & Gates Foundation
+    </td>
+  </tr>
+  <!-- resume writing -->
+  <tr>
+    <td valign="top">
+      <a href="https://imagine.jhu.edu/resources/how-to-write-effective-resumes-and-cvs-for-doctoral-students-and-postdocs/">Resume Writing</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      How to Write Effective Resumes and CVs for Doctoral Students and Postdocs
+    </td>
+  </tr>
+  <!-- interview tips -->
+  <tr>
+    <td valign="top">
+      <a href="https://imagine.jhu.edu/resources/interviewing-strategies-for-phds/">Interview Tips</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Interviewing Strategies for PhDs
+    </td>
+  </tr>
+  <!-- museums and cultural institutions -->
+  <tr>
+    <td valign="top">
+      <a href="https://imagine.jhu.edu/resources/museums-cultural-institutions-a-career-guide/">Museums and Cultural Institutions</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Museums & Cultural Institutions: A Career Guide 
+    </td>
+  </tr>
+</table>
