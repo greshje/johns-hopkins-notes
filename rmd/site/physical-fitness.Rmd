@@ -75,15 +75,27 @@ Yoga has been the best thing to happen to my lower back by far.
 Exercises that improve your mobility.
 
 <table border="1" width="100%">
+  <!-- Three Simple Beginner Mobility Moves -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://www.facebook.com/reel/465079929661573">Three Simple Beginner Mobility Moves</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Three Simple Beginner Mobility Moves
+      <ul>
+        <li>Sit Throughs</li>
+        <li>Plank Jacks</li>
+        <li>Box Cross Reach</li>
+      </ul>
+    </td>
+  </tr>
   <!-- build-up to kickout and reach up -->
   <tr>
     <td valign="top" width="20%">
       <a href="">Build-up to Kick-Out and Reach up</a>&nbsp;&nbsp;&nbsp;
     </td>
     <td valign="top">
-      <ul>
-        Good for core and lower back.
-      </ul>
+      Good for core and lower back.
     </td>
   </tr>
   <!-- Floor Exercise for Core -->
@@ -200,20 +212,6 @@ Exercises that improve your mobility.
         <li>Compression Slides</li>
         <li>Row Reach to Plank</li>
         <li>Kick Out Lunges</li>
-      </ul>
-    </td>
-  </tr>
-  <!-- Three Simple Beginner Mobility Moves -->
-  <tr>
-    <td valign="top" width="20%">
-      <a href="https://www.facebook.com/reel/465079929661573">Three Simple Beginner Mobility Moves</a>&nbsp;&nbsp;&nbsp;
-    </td>
-    <td valign="top">
-      Three Simple Beginner Mobility Moves
-      <ul>
-        <li>Sit Throughs</li>
-        <li>Plank Jacks</li>
-        <li>Box Cross Reach</li>
       </ul>
     </td>
   </tr>
