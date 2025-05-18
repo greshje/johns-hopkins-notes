@@ -203,15 +203,6 @@ Exercises that improve your mobility.
       </ul>
     </td>
   </tr>
-  <!-- Work Your Way Up To Handstands -->
-  <tr>
-    <td valign="top" width="20%">
-      <a href="https://www.facebook.com/reel/468654559090750">Work Your Way Up To Handstands</a>&nbsp;&nbsp;&nbsp;
-    </td>
-    <td valign="top">
-      Work Your Way Up To Handstands
-    </td>
-  </tr>
   <!-- Three Simple Beginner Mobility Moves -->
   <tr>
     <td valign="top" width="20%">
@@ -276,6 +267,24 @@ Exercises that improve your mobility.
       </ul>
     </td>
   </tr>
+  <!-- Work Your Way Up To Handstands -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://www.facebook.com/reel/468654559090750">Work Your Way Up To Handstands</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Work Your Way Up To Handstands
+    </td>
+  </tr>
+  <!-- Work up to Handstand Pushup -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://www.facebook.com/reel/428233173502580">Work up to Handstand Pushup</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Work up to Handstand Pushup
+    </td>
+  </tr>
   <!-- Do This After Long Sitting Periods -->
   <tr>
     <td valign="top" width="20%">
@@ -291,67 +300,43 @@ Exercises that improve your mobility.
       </ul>
     </td>
   </tr>
-  <!-- -->
+  <!-- Single Exercise for Lower Back -->
   <tr>
     <td valign="top" width="20%">
-      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://www.facebook.com/reel/1221533979332110">Single Exercise for Lower Back</a>&nbsp;&nbsp;&nbsp;
     </td>
     <td valign="top">
-
+      Single Exercise for Lower Back
+      <ul>
+        <li>Seated Toe Touches</li>
+      </ul>
     </td>
   </tr>
-  <!-- -->
+  <!-- Pushup Variations -->
   <tr>
     <td valign="top" width="20%">
-      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://www.facebook.com/reel/403287992141638">Pushup Variations</a>&nbsp;&nbsp;&nbsp;
     </td>
     <td valign="top">
-
+      Pushup Variations
     </td>
   </tr>
-  <!-- -->
+  <!-- Better Pushhps -->
   <tr>
     <td valign="top" width="20%">
-      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://www.facebook.com/reel/1116272942782877">Better Pushhps</a>&nbsp;&nbsp;&nbsp;
     </td>
     <td valign="top">
-
+      Better Pushhps (Workup to Planch)
     </td>
   </tr>
-  <!-- -->
+  <!-- Crunch Variations -->
   <tr>
     <td valign="top" width="20%">
-      <a href=""></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://www.facebook.com/reel/1619842755538238">Crunch Variations</a>&nbsp;&nbsp;&nbsp;
     </td>
     <td valign="top">
-
-    </td>
-  </tr>
-  <!-- -->
-  <tr>
-    <td valign="top" width="20%">
-      <a href=""></a>&nbsp;&nbsp;&nbsp;
-    </td>
-    <td valign="top">
-
-    </td>
-  </tr>
-  <!-- -->
-  <tr>
-    <td valign="top" width="20%">
-      <a href=""></a>&nbsp;&nbsp;&nbsp;
-    </td>
-    <td valign="top">
-
-    </td>
-  </tr>
-  <!-- -->
-  <tr>
-    <td valign="top" width="20%">
-      <a href=""></a>&nbsp;&nbsp;&nbsp;
-    </td>
-    <td valign="top">
-
+      Crunch Variations
     </td>
   </tr>
 
@@ -498,6 +483,15 @@ Links to Dancing Tutorials
       Moon Walk Variations
     </td>
   </tr>
+  <!-- Mobility Exercises to Work Up to Breakdancing -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://www.facebook.com/reel/446174835053680">Mobility Exercises to Work Up to Breakdancing</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Mobility Exercises to Work Up to Breakdancing
+    </td>
+  </tr>
   <!-- How to Learn Break Dancing Swipes -->
   <tr>
     <td valign="top" width="20%">
@@ -563,6 +557,16 @@ Links to Skiing Conditioning and Tutorials.
     </td>
     <td valign="top">
       Lots of intense exercises to get you ready for skiing moguls etc.
+    </td>
+  </tr>
+
+  <!-- Impact Training for Skiing -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://www.facebook.com/reel/1066404138643764">Impact Training for Skiing</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Impact Training for Skiing
     </td>
   </tr>
   
