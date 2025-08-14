@@ -89,15 +89,6 @@ Exercises that improve your mobility.
       </ul>
     </td>
   </tr>
-  <!-- build-up to kickout and reach up -->
-  <tr>
-    <td valign="top" width="20%">
-      <a href="">Build-up to Kick-Out and Reach up</a>&nbsp;&nbsp;&nbsp;
-    </td>
-    <td valign="top">
-      Good for core and lower back.
-    </td>
-  </tr>
   <!-- Floor Exercise for Core -->
   <tr>
     <td valign="top" width="20%">
@@ -475,12 +466,12 @@ Exercises that improve your mobility and also get your heart going.
 
 <!--
 *
-* Dancing
+* Shuffle Dancing
 *
 -->
 
-<h2>Dancing</h2>
-Links to Dancing Tutorials
+<h2>Shuffle Dancing</h2>
+Links to Shuffle Dancing Tutorials
 
 <table border="1" width="100%">
   <!-- Beginner Shuffle Dancing -->
@@ -509,6 +500,40 @@ Links to Dancing Tutorials
     </td>
     <td valign="top">
       Moon Walk Variations
+    </td>
+  </tr>
+
+  <!-- -->
+  <!--
+  <tr>
+    <td valign="top" width="20%">
+      <a href=""></a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+
+    </td>
+  </tr>
+  -->
+
+</table>  
+
+<!--
+*
+* Break Dancing
+*
+-->
+
+<h2>Break Dancing</h2>
+Links to Break Dancing Tutorials
+
+<table border="1" width="100%">
+  <!-- build-up to kickout and reach up -->
+  <tr>
+    <td valign="top" width="20%">
+      <a href="https://www.youtube.com/watch?v=1JFYlFogP5c">Kickouts</a>&nbsp;&nbsp;&nbsp;
+    </td>
+    <td valign="top">
+      Simple break dance move that is a good core/cardio exercise.  
     </td>
   </tr>
   <!-- Mobility Exercises to Work Up to Breakdancing -->
@@ -543,20 +568,7 @@ Links to Dancing Tutorials
       </ul>
     </td>
   </tr>
-
-  <!-- -->
-  <!--
-  <tr>
-    <td valign="top" width="20%">
-      <a href=""></a>&nbsp;&nbsp;&nbsp;
-    </td>
-    <td valign="top">
-
-    </td>
-  </tr>
-  -->
-
-</table>  
+</table>
 
 <!--
 *
